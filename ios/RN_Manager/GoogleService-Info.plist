@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>296053626170-89lrv5l24kbn38fkncm8jvk0qsvvi1bi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.296053626170-89lrv5l24kbn38fkncm8jvk0qsvvi1bi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB21a0dluFZF8oRvRoXQygiX4gtVRs7pIw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>296053626170</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>habv.fpt.RN.Manager</string>
+	<key>PROJECT_ID</key>
+	<string>rn-manager-bb7f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rn-manager-bb7f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:296053626170:ios:9e6b9116c57be20433ac03</string>
+	<key>DATABASE_URL</key>
+	<string>https://rn-manager-bb7f6.firebaseio.com</string>
+</dict>
+</plist>
